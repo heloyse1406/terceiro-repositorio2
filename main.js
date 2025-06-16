@@ -9,14 +9,14 @@
 
   function diminuiTamanho() {
        if (tamanhoSenha > 1) {
-           tamanhoSenha = tamanhoSenha -1;
+           tamanhoSenha = tamanhoSenha - 1;
      }
      numeroSenha.textContent = tamanhoSenha;
   }
 
   function aumentaTamanho() {
     if(tamanhoSenha < 20) {
-        tamanhoSenha = tamanhoSenha +1;
+        tamanhoSenha = tamanhoSenha + 1;
     }
     numeroSenha.textContent = tamanhoSenha;
   }
