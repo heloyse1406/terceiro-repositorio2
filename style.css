@@ -134,11 +134,11 @@ label {
     background-color: #E71832;
 }
 
-.parametro-senha__textos {
+.parametro-senha-textos {
     display: flex;
     justify-content: space-between;
 }
-    
+
 .media {
     background-color: #FAF408;
     width: 50%;
